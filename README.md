@@ -1,6 +1,6 @@
 # Introdução à  Python 
 Códigos dos Exercícios de Python 
-<p>  <a href="https://github.com/tatycalixto/introducao-python/tree/main/Aula01"> Lista de Exercícios 01 - </a> Variáveis, Tipos de dados, Saída e entrada de dados, Operações aritméticas básicas </p>
+<p>  <a href="https://github.com/tatycalixto/introducao-python/tree/main/Aula01"> Lista de Exercícios 01 -</a> Variáveis, Tipos de dados, Saída e entrada de dados, Operações aritméticas básicas </p>
 # Material de Python :snake:
 <p>:link: <a href="https://python.org.br/"> Python Brasil </a>  </p>
 <p>:link: <a href="https://docs.python.org/pt-br/3/tutorial/index.html"> Documentação de Python</a>  </p>
