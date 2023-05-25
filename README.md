@@ -1,5 +1,6 @@
 # Introdução à  Python 
 Códigos dos Exercícios de Python 
+<p> <a href="https://python.org.br/"> Lista de Exercícioo 01 - Variáveis, Tipos de dados, Saída e entrada de dados, Operações aritméticas básicas </a>  </p>
 # Material de Python :snake:
 <p>:link: <a href="https://python.org.br/"> Python Brasil </a>  </p>
 <p>:link: <a href="https://docs.python.org/pt-br/3/tutorial/index.html"> Documentação de Python</a>  </p>
