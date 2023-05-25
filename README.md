@@ -2,6 +2,9 @@
 Códigos dos Exercícios de Python 
 <p> :computer:<a href="https://github.com/tatycalixto/introducao-python/tree/main/Aula01"> Lista de Exercícios 01 </a> - Variáveis, Tipos de dados, Saída e entrada de dados, Operações aritméticas básicas :white_check_mark:</p>
 <p>:computer: <a href="https://github.com/tatycalixto/introducao-python/tree/main/Aula%2002"> Lista de Exercícios 02  </a> - Estruturas Condicionais </p>
+<p>:computer: <a href="#"> Lista de Exercícios 03  </a> - Estruturas de Repetição </p>
+<p>:computer: <a href="#"> Lista de Exercícios 04  </a> - Manipulação de Strings </p>
+
 # Material de Python :snake:
 <p>:link: <a href="https://python.org.br/"> Python Brasil </a>  </p>
 <p>:link: <a href="https://docs.python.org/pt-br/3/tutorial/index.html"> Documentação de Python</a>  </p>
