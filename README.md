@@ -7,7 +7,7 @@ Códigos dos Exercícios de Python
 <p>:computer: <a href="https://github.com/tatycalixto/introducao-python/tree/main/Aula%2005"> Lista de Exercícios 05  </a> - Listas :white_check_mark:</p>
 <p>:computer: <a href="https://github.com/tatycalixto/introducao-python/tree/main/Aula%2006"> Lista de Exercícios 06  </a> - Dicionário e Função  :white_check_mark:</p>
 <p>:computer: <a href="#"> Lista de Exercícios 07  </a> - Função e Manipulação de Arquivos </p>
-<p>:computer: <a href="#"> Lista de Exercícios 08  </a> - Visualuzação de Dados </p>
+<p>:computer: <a href="#"> Lista de Exercícios 08  </a> - Visualização de Dados </p>
 <p>:computer: <a href="#"> Lista de Exercícios 09  </a> - Web Scraping </p>
 
 # Material de Python :snake:
