@@ -5,7 +5,7 @@ Códigos dos Exercícios de Python
 <p>:computer: <a href="https://github.com/tatycalixto/introducao-python/tree/main/Aula%20%2003"> Lista de Exercícios 03  </a> - Estruturas de Repetição :white_check_mark: </p>
 <p>:computer: <a href="https://github.com/tatycalixto/introducao-python/tree/main/Aula%2004"> Lista de Exercícios 04  </a> - Manipulação de Strings :white_check_mark:</p>
 <p>:computer: <a href="https://github.com/tatycalixto/introducao-python/tree/main/Aula%2005"> Lista de Exercícios 05  </a> - Listas :white_check_mark:</p>
-<p>:computer: <a href="#"> Lista de Exercícios 06  </a> - Dicionário e Função  :white_check_mark:</p>
+<p>:computer: <a href="https://github.com/tatycalixto/introducao-python/tree/main/Aula%2006"> Lista de Exercícios 06  </a> - Dicionário e Função  :white_check_mark:</p>
 
 # Material de Python :snake:
 <p>:link: <a href="https://python.org.br/"> Python Brasil </a>  </p>
